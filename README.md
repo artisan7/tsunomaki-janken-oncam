@@ -1,6 +1,10 @@
 <br/>
 <p align="center">
   <h3 align="center">Tsunomaki Janken OnCam?</h3>
+  
+  <p align="center">
+    <img src="/assets/screenshot.png" alt="Employee data" title="Employee Data title" width="25%">
+  </p>
 
   <p align="center">
     Play Tsunomaki Janken using your hand's gestures captured on your webcam against an AI opponent ("OnCam" is so fckin lame btw)
